@@ -1,4 +1,4 @@
-# ♻️ PETicle Team (PET+Circle)
+# ♻️ PETicle Team (PET Bottle + Circle)
 
 **"중고생의 분리배출 습관을 바꾸는 AI 기반 게이미피케이션 솔루션"**
 
